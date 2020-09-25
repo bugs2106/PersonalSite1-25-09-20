@@ -1,0 +1,50 @@
+
+body {
+/*background-color: #d4f3ef;*/
+  /*background-color: #d7f7f5*/
+  background-color:#ecf4f3;
+/*  color: #216583;*/
+  color:#132743;
+  font-family:cursive;
+  font-size: 105%;
+}
+
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #056674;
+  border-width: 8px;
+  width: 5%;
+}
+
+h3{
+ color: #4592af;
+ font-family: cursive;
+ font-size: 22px;
+ font-weight: bold;
+ margin-top: 1px;
+ margin-bottom: 1px;
+}
+
+.edu{
+  color:#0e9aa7;
+}
+
+h1{
+/*  color: #2a6171;*/
+/*  color:#0e9aa7;*/
+  color:#065c6f;
+  font-family:serif;
+  font-size: 40px;
+  font-weight: bold;
+  margin-top: 1px;
+  margin-bottom: 1px;
+
+}
+.achieve{
+background: linear-gradient( #ecf4f3,#63b7af);  
+}
+#grad {
+  background: linear-gradient( #ecf4f3,#cffffe, #81f5ff,#2ec1ac);
+/*#a2d5f2, #76ead7,#05dfd7,, #a0ffe6,#a2d5f2,, #b2ebf2,#01a9b4*/
+}
