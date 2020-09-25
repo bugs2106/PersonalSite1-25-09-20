@@ -5,7 +5,7 @@ body {
   background-color:#ecf4f3;
 /*  color: #216583;*/
   color:#132743;
-  font-family:cursive;
+  font-family:"Comic Sans MS",serif;
   font-size: 105%;
 }
 
@@ -19,7 +19,7 @@ hr{
 
 h3{
  color: #4592af;
- font-family: cursive;
+ font-family: "Comic Sans MS",serif;
  font-size: 22px;
  font-weight: bold;
  margin-top: 1px;
